@@ -1,6 +1,6 @@
 # Experiment 04 Half Subtractor and Full subtractor
 #### Name: MOHAMMED IBRAHIM MN
-#### Register number: 23005104
+#### Register number: 212223100034
 ## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
 ## AIM:
 To design a half subtractor and full subtractor circuit and verify its truth table in Quartus using Verilog programming.
